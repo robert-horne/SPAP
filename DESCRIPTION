@@ -1,0 +1,14 @@
+Package: SPAP
+Type: Package
+Title: Solving Shortest Path Problems
+Version: 1.1.0
+Author: Robert Horne
+Maintainer: Robert Horne <roberthorne@outlook.com>
+Description: The SPA Package is a simple package for managing large graphs and implementing algorithms to the SPP with such a graph.
+License: Free Use Policy.
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 0.12.14)
+LinkingTo: igraph
+LinkingTo: Rcpp
+
